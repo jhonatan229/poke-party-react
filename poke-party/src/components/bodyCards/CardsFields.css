@@ -1,0 +1,14 @@
+#card{
+    height: 150px;
+    width: 150px;
+    background-color: pink;
+    margin: 10px;
+
+}
+
+#cards {
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none; 
+    flex-wrap: wrap;
+}
